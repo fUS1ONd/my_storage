@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5e0c554aab61b21e",
+        "id": "958864041a40f280",
         "type": "tabs",
         "children": [
           {
-            "id": "3140fe1eb3e18cf3",
+            "id": "7db99a6e5ffd8cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/All data.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "All data"
+            }
+          },
+          {
+            "id": "60552c075e56c331",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Conventional commits (Обычные коммиты).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Conventional commits (Обычные коммиты)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conventional commits (Обычные коммиты).md",
+                "file": "new note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Conventional commits (Обычные коммиты)"
+              "title": "Обратные ссылки для new note"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conventional commits (Обычные коммиты).md",
+                "file": "new note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Conventional commits (Обычные коммиты)"
+              "title": "Исходящие ссылки из new note"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conventional commits (Обычные коммиты).md",
+                "file": "new note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Conventional commits (Обычные коммиты)"
+              "title": "Структура new note"
             }
           }
         ]
@@ -165,13 +180,23 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "854e25ef1ea653d2",
+  "active": "60552c075e56c331",
   "lastOpenFiles": [
-    "Тестирование.md",
+    "Templates/для заметок.md",
     "Conventional commits (Обычные коммиты).md",
+    "Тестирование.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "Templates/шняга.md",
+    "kjk.md",
+    "Templates/All data.md",
+    "new note.md",
+    "Templates/Без названия.canvas",
+    "Templates",
     "Ссылочка.md",
     "Добро пожаловать.md",
     "cache"
